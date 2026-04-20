@@ -27,13 +27,13 @@ This project implements an end-to-end deep learning pipeline for rice leaf disea
 ## Results (ResNet50)
 
 ### White Background
-![ResNet50 White](figs/resnet50_confusion_matrix_white.png)
+![ResNet50 White](figs/resnet50_confusion_matrix_white.jpg)
 
 ### Field Scenario
-![ResNet50 Field](figs/resnet50_confusion_matrix_field.png)
+![ResNet50 Field](figs/resnet50_confusion_matrix_field.jpg)
 
 ### Mixed Scenario
-![ResNet50 Mixed](figs/resnet50_confusion_matrix_mixed.png)
+![ResNet50 Mixed](figs/resnet50_confusion_matrix_mixed.jpg)
 
 ## 🚀 How to Run
 
